@@ -16,7 +16,7 @@ Via de input in gekozenId wordt afhankelijk van de zichtbaarheid van het element
   * element wordt terug zichtbaar
   * in divFeedback verschijnt de tekst: 'Daar is ie weer: ' gevolgd door het zichtbaar gemaakte element
   * de tekst in btnVerbergElementMetId wordt veranderd in 'Verberg element met id'
-### Zichtbaarheid via CSS
+### function ToonVerbergElementViaSelector
 Programmeer dezelfde functionaliteiten voor btnVerbergElementMetSelector via de input in txtCssSelector. 
 Hier wordt het te verbergen/tonen element via de css-selector geselecteerd.
 De tekst in de button staat op 2 lijnen.
