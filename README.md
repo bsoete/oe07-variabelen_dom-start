@@ -2,10 +2,10 @@ oe07-variabelen_dom-start
 # Herhaling variabelen en DOM-elementen
 ## Werking
 ### Opstarten
-In txtId wordt de tekst 'txtNaam' ingevuld
-In txtCssSelector wordt de tekst 'label' ingevuld
-Bij een klik op 'btnVerbergElementMetId' wordt de function 'ToonVerbergElementViaId' uitgevoerd
-Bij een klik op 'btnVerbergElementMetSelector' wordt de function 'ToonVerbergElementViaSelector' uitgevoerd
+- In txtId wordt de tekst 'txtNaam' ingevuld
+- In txtCssSelector wordt de tekst 'label' ingevuld
+- Bij een klik op 'btnVerbergElementMetId' wordt de function 'ToonVerbergElementViaId' uitgevoerd
+- Bij een klik op 'btnVerbergElementMetSelector' wordt de function 'ToonVerbergElementViaSelector' uitgevoerd
 ### function ToonVerbergElementViaId
 Via de input in gekozenId wordt afhankelijk van de zichtbaarheid van het element met het ingetikte id:
 - indien zichtbaar: 
