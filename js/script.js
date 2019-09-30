@@ -1,6 +1,4 @@
 "use strict";
-
-
 window.addEventListener('load',Initieer);
 
 // Globale Variabelen
