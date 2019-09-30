@@ -71,6 +71,10 @@ select {
   border-style: solid;
 }
 
-.floatrechts{
+.float-right{
   float: right;
+}
+
+.float-left{
+  float : left;
 }

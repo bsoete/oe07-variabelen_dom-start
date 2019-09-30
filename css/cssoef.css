@@ -1,3 +1,7 @@
+body{
+    line-height: 2em;
+}
+
 label {
     width: 200px;
     display: inline-block;
